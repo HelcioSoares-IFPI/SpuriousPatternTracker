@@ -1,0 +1,19 @@
+# Core libraries
+tqdm
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+torch
+transformers
+lime
+faiss-cpu
+plotly
+wordcloud
+joblib
+unidecode
+nltk
+
+# Additional utilities
+pickle5
