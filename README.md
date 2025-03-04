@@ -200,4 +200,4 @@ The Bidding Dataset supports the detection of fraud indicators in public procure
 ---
 
 ### Data Access
-The datasets are **not publicly available** due to TCE-PI's internal regulations. However, the data can be provided upon request to the corresponding author, who is a representative of the institution. Requests must comply with TCE-PI's procedural formality.
+The datasets are **publicly**.
